@@ -13,3 +13,4 @@ Requires a paillier cryptosystem library which can be installed using `pip insta
 3. Open a terminal window for each voter and run `voter.py`
 4. After collectors have started server, press Enter on each voter's terminal window to have them connect to collectors and cast vote.
 5. Both collectors will tally votes, display ballots, and validate ballots, and election will be complete.
+6. Done.
